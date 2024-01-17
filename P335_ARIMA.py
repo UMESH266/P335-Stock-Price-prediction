@@ -125,4 +125,4 @@ if check == 'Project':
 
     st.line_chart(pd.DataFrame(forecast_data), )
 
-    st.subheader('Thank you . . ')
+    st.subheader('Thank you . . .')
