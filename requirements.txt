@@ -1,7 +1,6 @@
 altair==5.2.0
 attrs==23.2.0
 blinker==1.7.0
-Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
 cachetools==5.3.2
 certifi==2023.11.17
 charset-normalizer==3.3.2
