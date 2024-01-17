@@ -56,7 +56,7 @@ if check == 'Team':
 
 if check == 'Project':
     # Loading raw dataset
-    data1 = pd.read_csv("./Tesla Inc.csv")
+    data1 = pd.read_csv("./Tesla_streamlit.csv")
     # Cleaned data
     data = pd.read_csv("./Tesla.csv", index_col='Date')
 
