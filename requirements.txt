@@ -3,3 +3,4 @@ pandas
 numpy
 statsmodels
 scikit-learn
+seaborn
